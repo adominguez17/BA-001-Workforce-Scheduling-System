@@ -21,9 +21,9 @@ Designed and implemented an automated workforce scheduling solution that improve
 
 # Executive Summary
 
-...
+Designed and implemented an automated workforce scheduling system to support a large operational workforce in a 24/7, mission-critical environment. The solution replaced manual scheduling processes with a centralized system that automated employee rotations, improved staffing visibility, and streamlined operational reporting.
 
----
+Using Microsoft Excel, Power Query, and advanced automation techniques, the system enabled leadership to manage workforce assignments, monitor staffing levels, and support long-term operational planning through data-driven reporting and dashboards. The solution significantly reduced manual administrative effort while improving scheduling accuracy and consistency.
 
 # Business Problem
 
