@@ -85,7 +85,7 @@ The workforce planning engine evaluated each scheduling cycle against operationa
 flowchart TD
 
 A[Import Employee Data]
-A --> B[Generate Workforce Rotation]
+A --> B[Generate Work Rotation]
 B --> C[Calculate Annual Forecast]
 C --> D[Validate Staffing by Shift]
 D --> E[Validate Staffing by Position]
