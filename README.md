@@ -205,9 +205,33 @@ flowchart TD
 - Produced operational dashboards and executive reporting.
 - Reduced manual scheduling effort through workflow automation.
 
-# Results
+# Business Impact
 
-...
+The Workforce Planning & Scheduling System transformed a manual workforce planning process into a centralized operational planning platform that improved visibility, forecasting, and staffing decision-making.
+
+### Operational Impact
+
+- Supported workforce planning for approximately **350 employees**.
+- Enabled leadership to forecast workforce availability across the entire calendar year.
+- Automated employee rotation planning using a **56-day on / 14-day off** staffing model.
+- Improved staffing visibility by operational shift and position.
+- Increased confidence that staffing plans remained above contractual minimum staffing requirements.
+- Enhanced communication of upcoming employee leave rotations weeks and months in advance.
+
+---
+
+### Process Improvements
+
+- Eliminated repetitive manual scheduling activities through workflow automation.
+- Standardized workforce planning into a repeatable, data-driven process.
+- Reduced scheduling errors by applying automated business rules.
+- Centralized workforce planning and reporting into a single operational solution.
+
+### Leadership Value
+
+- Provided executive dashboards supporting staffing decisions.
+- Enabled proactive workforce planning rather than reactive scheduling.
+- Improved operational readiness by identifying staffing shortages before they occurred.
 
 ---
 
