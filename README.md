@@ -255,7 +255,7 @@ The Workforce Planning & Scheduling System transformed a manual workforce planni
 The following screenshots demonstrate the production version of the Workforce Planning & Scheduling System.
 
 ## Executive Dashboard
-<img width="1797" height="823" alt="image" src="https://github.com/user-attachments/assets/56270188-122f-4faf-874a-23a814b18944" />
+
 
 ---
 
@@ -306,10 +306,10 @@ For every employee and every date in the calendar, the workbook determined where
 
 ---
 
-## Workforce Planning Engine
+## Scheduling Engine
 *Core scheduling workbook responsible for annual forecasting, workforce rotations, staffing validation, and executive reporting.*
 
-*(Screenshot coming soon)*
+<img width="1797" height="823" alt="image" src="https://github.com/user-attachments/assets/56270188-122f-4faf-874a-23a814b18944" />
 
 ---
 
