@@ -261,6 +261,8 @@ The following screenshots demonstrate the production version of the Workforce Pl
 
 <img width="1797" height="823" alt="image" src="https://github.com/user-attachments/assets/56270188-122f-4faf-874a-23a814b18944" />
 
+<img width="813" height="817" alt="image" src="https://github.com/user-attachments/assets/11eceb5d-6949-4435-be77-5a218abead25" />
+
 ---
 
 ## Annual Workforce Calendar
