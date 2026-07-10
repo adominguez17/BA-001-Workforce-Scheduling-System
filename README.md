@@ -309,8 +309,7 @@ For every employee and every date in the calendar, the workbook determined where
 ## Scheduling Engine
 *Core scheduling workbook responsible for annual forecasting, workforce rotations, staffing validation, and executive reporting.*
 
-<img width="1797" height="823" alt="image" src="https://github.com/user-attachments/assets/56270188-122f-4faf-874a-23a814b18944" />
-
+<img width="1101" height="1042" alt="image" src="https://github.com/user-attachments/assets/c9996966-bc20-4f0c-8b45-fcd0df5d6cf0" />
 ---
 
 ## Power Query Workflow
