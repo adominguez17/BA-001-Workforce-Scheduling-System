@@ -257,7 +257,8 @@ The following screenshots demonstrate the production version of the Workforce Pl
 ## Executive Dashboard
 *Displays workforce availability, staffing summaries, executive KPIs, and operational metrics.*
 
-*(Screenshot coming soon)*
+*<img width="903" height="887" alt="image" src="https://github.com/user-attachments/assets/0e773a18-a0f1-4f49-8442-eb9e57a9de56" />
+*
 
 ---
 
