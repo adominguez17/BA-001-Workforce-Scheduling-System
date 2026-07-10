@@ -255,8 +255,7 @@ The Workforce Planning & Scheduling System transformed a manual workforce planni
 The following screenshots demonstrate the production version of the Workforce Planning & Scheduling System.
 
 ## Executive Dashboard
-
-
+<img width="516" height="622" alt="image" src="https://github.com/user-attachments/assets/0530a3f0-8658-4aa4-b938-a613b8c84181" />
 ---
 
 ## Annual Workforce Calendar
