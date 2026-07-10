@@ -255,13 +255,7 @@ The Workforce Planning & Scheduling System transformed a manual workforce planni
 The following screenshots demonstrate the production version of the Workforce Planning & Scheduling System.
 
 ## Executive Dashboard
-
-
-<img width="903" height="887" alt="image" src="https://github.com/user-attachments/assets/0e773a18-a0f1-4f49-8442-eb9e57a9de56" />
-
 <img width="1797" height="823" alt="image" src="https://github.com/user-attachments/assets/56270188-122f-4faf-874a-23a814b18944" />
-
-<img width="813" height="817" alt="image" src="https://github.com/user-attachments/assets/11eceb5d-6949-4435-be77-5a218abead25" />
 
 ---
 
@@ -306,7 +300,9 @@ For every employee and every date in the calendar, the workbook determined where
 ## Staffing Validation Dashboard
 *Validates staffing levels by position and operational shift while ensuring contractual staffing requirements are maintained.*
 
-*(Screenshot coming soon)*
+<img width="903" height="887" alt="image" src="https://github.com/user-attachments/assets/0e773a18-a0f1-4f49-8442-eb9e57a9de56" />
+
+<img width="813" height="817" alt="image" src="https://github.com/user-attachments/assets/11eceb5d-6949-4435-be77-5a218abead25" />
 
 ---
 
